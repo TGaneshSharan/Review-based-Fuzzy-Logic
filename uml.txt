@@ -1,0 +1,11 @@
+Retailer
+Login
+View Reviews Classification Result
+View all reviews
+View sentiment graph
+
+User
+Load Dataset
+Train Hybrid CNN & LSTM
+Submit Your Reviews
+Prediction ‘POSITIVE’ and ‘GENUINE’ 
